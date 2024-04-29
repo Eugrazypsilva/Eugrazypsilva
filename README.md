@@ -1,16 +1,16 @@
-### Hi there 👋
+#### BEM VINDO AO MEU PERFIL🤍
 
-<!--
-**Eugrazypsilva/Eugrazypsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.Meu nome é Grazielly de Paula Silva
 
-Here are some ideas to get you started:
+.SOU ESTUDANTE DO ALURA[alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.Ultilizo esse espaço para a organização dos meus projetos desenvolvidos
+
+#### ENTRE EM CONTATO 📧
+
+sgrazielly580@gmail.com
+
+@Eugrazypsilva
+
+
+![](https://media1.tenor.com/m/H4hl0RQOsVQAAAAC/iceage-possum.gif)
